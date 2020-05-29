@@ -1,0 +1,47 @@
+button {
+  width: 25%;
+  height: 5.2rem;
+  font-size: 30px;
+  cursor: pointer;
+  color: #fff;
+}
+.blue {
+  background-color: #7efff5;
+  border: 1px solid #f7f1e3;
+  border-width: thin;
+
+  transition: all 0.7s;
+}
+.blue:hover {
+  color: #fffa65;
+  background: #67e6dc;
+}
+.pink {
+  background-color: #ffcccc;
+  border: 1px solid #f7f1e3;
+  transition: all 0.7s;
+}
+.pink:hover {
+  background-color: #fda7df;
+  color: #fffa65;
+}
+
+.red {
+  background-color: #ff6b6b;
+  border: 1px solid #f7f1e3;
+  transition: all 0.7s;
+}
+.red:hover {
+  background-color: #ff3838;
+  color: #fffa65;
+}
+
+.purple {
+  background-color: #cd84f1;
+  border: 1px solid #f7f1e3;
+  transition: all 0.8s;
+}
+.purple:hover {
+  background-color: #8854d0;
+  color: #fffa65;
+}

@@ -1,0 +1,12 @@
+.Result {
+  height: 6rem;
+  background: rgb(247, 245, 245);
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.Result p {
+  font-size: 3rem;
+}
